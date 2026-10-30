@@ -78,6 +78,12 @@ Suggested PR checklist:
 
 ## License
 
+This repository does not include a license file yet. If this is intended for public reuse, add a license (e.g., MIT, CC-BY, or a government/organizational-compatible license). If you want, I can add a LICENSE file for you — tell me which license to use.
+
+## Credits
+
+Original content and guidance: NUS Office of Risk Management and Compliance (as referenced in index.html).
+
 ## Intended use
 
 **For NUS internal use**
